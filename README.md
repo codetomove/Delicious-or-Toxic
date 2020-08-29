@@ -28,3 +28,7 @@ Use the SVM (Support Vector Machines) algorithm to classify Tweet text. Use Stoc
 This means that we just use randomness in our gradient descent. This article explains it beautifully:
 https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31
 
+Dataset:
+
+Data is from: https://www.kaggle.com/shashank1558/preprocessed-twitter-tweets?select=processedNegative.csv
+I added in some of my own flavor of course.
